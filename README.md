@@ -1,13 +1,8 @@
-# SRE at OP Pohjola
 
----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmouru&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmouru&theme=default)
-
+## SRE / Platform Engineer @ OP Pohjola
 ---
-
-### Technologies
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%230f1689.svg?style=flat-square&logo=helm&logoColor=white)
