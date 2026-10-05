@@ -1,6 +1,6 @@
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmouru&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmouru&show_icons=true&theme=chartreuse-dark)
 ## SRE / Platform Engineer @ OP Pohjola
 ---
 
