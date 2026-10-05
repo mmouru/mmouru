@@ -1,9 +1,4 @@
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmouru&show_icons=true&theme=chartreuse-dark)
 ## SRE / Platform Engineer @ OP Pohjola
----
-
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%230f1689.svg?style=flat-square&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
@@ -27,3 +22,4 @@
 ![Backstage](https://img.shields.io/badge/backstage-%23000000.svg?style=flat-square&logo=spotify&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmouru&show_icons=true&theme=github-dark)
