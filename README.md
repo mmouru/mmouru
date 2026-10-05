@@ -22,4 +22,5 @@
 ![Backstage](https://img.shields.io/badge/backstage-%23000000.svg?style=flat-square&logo=spotify&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmouru&show_icons=true&theme=shadow_red)
